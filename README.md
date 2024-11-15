@@ -1,6 +1,6 @@
 # Comprehensive-Unbiased-RNAseq-Database-Uncovers-New-Human-Monocyte-Derived-Macrophage-Subtypes-
 
-This repository contains scripts associated with the manuscript "Leveraging a comprehensive unbiased RNAseq database to characterize human monocyte-derived macrophage gene expression profiles within commonly employed in vitro polarization methods" published in Scientific Reports in 2024. doi: https://doi.org/10.1038/s41598-024-78000-6.
+This repository contains scripts associated with the manuscript "Leveraging a comprehensive unbiased RNAseq database to characterize human monocyte-derived macrophage gene expression profiles within commonly employed in vitro polarization methods" published in Scientific Reports in 2024 (PMID: 39500943). doi: https://doi.org/10.1038/s41598-024-78000-6.
 
 Author: Timothy Smyth et al.
 
